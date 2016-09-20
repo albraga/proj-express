@@ -1,0 +1,27 @@
+{
+  "name": "proj-express",
+  "version": "1.0.0",
+  "description": "front end of proj-server-api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albraga/proj-express.git"
+  },
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "author": "Alexandre Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albraga/proj-express/issues"
+  },
+  "homepage": "https://github.com/albraga/proj-express#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "proj-client-module": "git+https://github.com/albraga/proj-client-module.git"
+  }
+}
